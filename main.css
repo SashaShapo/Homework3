@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+.main{
+    height: 100vh;
+    padding-top: 5%;
+}
+.wrapper{
+    max-width: 970px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.first-img {
+   display: flex;
+    align-items: center;
+}
+.first-img img{
+    margin-right: 40px;
+}
+.main p{
+    padding-top: 15px;
+    line-height: 1.5em;
+}
+.main p sub{
+    color: #0300de;
+}
+.green{
+    color: #0ca90d;
+}
+.second-img{
+    display: flex;
+    align-items: center;
+}
